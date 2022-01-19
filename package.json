@@ -1,5 +1,8 @@
 {
   "name": "@midnights/init-config",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.0.1",
   "description": "A cli tool for generating or replacing configuration files based onbest practice github gists for each of the respective configs",
   "main": "dist/cli.js",
