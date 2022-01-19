@@ -1,14 +1,11 @@
 {
   "name": "@midnights/init-config",
+  "version": "0.0.1",
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.0.1",
   "description": "A cli tool for generating or replacing configuration files based onbest practice github gists for each of the respective configs",
   "main": "dist/cli.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ItsMidnights/init-config.git"
@@ -22,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/ItsMidnights/init-config/issues"
   },
-  "homepage": "https://github.com/ItsMidnights/init-config#readme"
+  "homepage": "https://github.com/ItsMidnights/init-config#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
 }
