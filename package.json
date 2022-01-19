@@ -1,0 +1,23 @@
+{
+  "name": "@midnights/init-config",
+  "version": "0.0.1",
+  "description": "A cli tool for generating or replacing configuration files based onbest practice github gists for each of the respective configs",
+  "main": "dist/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsMidnights/init-config.git"
+  },
+  "keywords": [
+    "cli",
+    "init-config"
+  ],
+  "author": "Midnights <michaelcasas13@gmail.com> (https://michaelcasas.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ItsMidnights/init-config/issues"
+  },
+  "homepage": "https://github.com/ItsMidnights/init-config#readme"
+}
