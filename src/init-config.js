@@ -1,9 +1,4 @@
 #! /usr/bin/env node
-import { dirname } from "node:path";
-import { cwd } from "node:process";
+import inquirer from "inquirer";
 
-const hello = () => {
-  console.log(`yo. you're in like: ${dirname(cwd())}`);
-}
-
-hello();
+inquirer.prompt([]);
